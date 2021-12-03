@@ -1,0 +1,36 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+h1 {
+  color: black;
+  margin-bottom: 10px;
+}
+
+score {
+  color: black;
+  margin-bottom: 10px;
+}
+
+p {
+  padding: 0;
+  margin: 0;
+}
+
+board {
+  margin: 10px; 
+}
+
+turn {
+  color: black;  
+}
+
+button {
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
